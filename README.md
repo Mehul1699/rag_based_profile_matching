@@ -1,0 +1,1 @@
+A resume RAG system that uses embeddings, vector search, and LLMs to match candidates with job descriptions.
