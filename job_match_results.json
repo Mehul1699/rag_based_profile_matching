@@ -1,0 +1,308 @@
+{
+  "job_description": "We are looking for a Java Backend Developer with knowledge of Java, Spring Boot, and object-oriented programming. \nCandidates should have experience with REST APIs, microservices, and SQL databases. \nFamiliarity with Hibernate, Git, and Maven is preferred.",
+  "job_skills": [
+    "sql",
+    "java",
+    "git"
+  ],
+  "must_have_skills": [],
+  "scoring_method": "45% semantic similarity + 55% job-skill coverage when job skills are detected; otherwise semantic similarity",
+  "selection_note": "Top eligible candidates",
+  "total_unique_candidates_retrieved": 13,
+  "top_matches": [
+    {
+      "resume_id": "7ede6afef918fce8",
+      "candidate_name": "JOHN DOE",
+      "resume_path": "C:\\Users\\UDITA BAGGA\\python-practice\\rag_based_profile_matching\\resumes\\resume_john_doe.pdf",
+      "match_score": 86.62,
+      "semantic_similarity": 0.7026,
+      "matched_skills": [
+        "sql",
+        "java",
+        "git"
+      ],
+      "missing_skills": [],
+      "must_have_skills": [],
+      "missing_must_have_skills": [],
+      "eligibility": "Eligible",
+      "sections_retrieved": [
+        "Education",
+        "Experience",
+        "General",
+        "Projects",
+        "Skills",
+        "Summary"
+      ],
+      "relevant_excerpts": [
+        "Section: Summary\nBackend developer with 3+ years of experience building scalable Java applications and REST APIs. Hands-on experience with Spring Boot, Hibernate, PostgreSQL, Docker, unit testing, and Git. Strong understanding of object-oriented design, database optimization, and clean code practices.",
+        "Section: General\nJOHN DOE Java Backend Developer | Spring Boot | REST APIs New Delhi, India | +91 98765 43210 | john.doe@email.com | linkedin.com/in/johndoe",
+        "Section: Skills\nLanguages: Java, SQL Frameworks: Spring Boot, Spring MVC, Hibernate/JPA Databases: PostgreSQL, MySQL Tools: Git, Docker, Maven, Postman, IntelliJ IDEA Testing: JUnit, Mockito Concepts: REST APIs, OOP, Design Patterns, Data Structures"
+      ],
+      "explanation": "Matching evidence: sql, java, git.Skills not found in retrieved resume text: None of the listed job skills are missing.Check the original resume before making a decision."
+    },
+    {
+      "resume_id": "3618f1fac42caf2b",
+      "candidate_name": "Jake Ryan",
+      "resume_path": "C:\\Users\\UDITA BAGGA\\python-practice\\rag_based_profile_matching\\resumes\\Jake_Ryan_Resume.pdf.pdf",
+      "match_score": 77.06,
+      "semantic_similarity": 0.4903,
+      "matched_skills": [
+        "sql",
+        "java",
+        "git"
+      ],
+      "missing_skills": [],
+      "must_have_skills": [],
+      "missing_must_have_skills": [],
+      "eligibility": "Eligible",
+      "sections_retrieved": [
+        "Education",
+        "Experience",
+        "General",
+        "Projects",
+        "Skills"
+      ],
+      "relevant_excerpts": [
+        "Section: Skills\nLanguages: Java, Python, C/C++, SQL (Postgres), JavaScript, HTML/CSS, R F rameworks: React, Node.js, Flask, JUnit, WordPress, Material-UI, FastAPI Developer T ools: Git, Docker, TravisCI, Google Cloud Platform, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse Libraries: pandas, NumPy, Matplotlib",
+        "Section: Projects\nGitlytics | Python, Flask, React, PostgreSQL, Docker June 2020 – Present • Developed a full-stack web application using with Flask serving a REST API with React as the frontend • Implemented GitHub OAuth to get data from user’s repositories • Visualized GitHub data to show collaboration • Used Celery and Redis for asynchronous tas",
+        "Section: Experience\nUndergraduate Research Assistant June 2020 – Present Texas A&M University College Station, TX • Developed a REST API using FastAPI and PostgreSQL to store data from learning management systems • Developed a full-stack web application using Flask, React, PostgreSQL and Docker to analyze GitHub data • Explored ways to visualize Gi"
+      ],
+      "explanation": "Matching evidence: sql, java, git.Skills not found in retrieved resume text: None of the listed job skills are missing.Check the original resume before making a decision."
+    },
+    {
+      "resume_id": "66353efde6a94f7e",
+      "candidate_name": "David_Cole_Resume.pdf",
+      "resume_path": "C:\\Users\\UDITA BAGGA\\python-practice\\rag_based_profile_matching\\resumes\\David_Cole_Resume.pdf.pdf",
+      "match_score": 75.84,
+      "semantic_similarity": 0.463,
+      "matched_skills": [
+        "sql",
+        "java",
+        "git"
+      ],
+      "missing_skills": [],
+      "must_have_skills": [],
+      "missing_must_have_skills": [],
+      "eligibility": "Eligible",
+      "sections_retrieved": [
+        "General"
+      ],
+      "relevant_excerpts": [
+        "Section: General\ndevelopment experience • Ruby, Ruby on Rails, object-oriented PHP, and Java, including and JSP and Servlets • MVC, design patterns, Object-oriented Analysis and Design (OOAD), Web 2.0, SaaS, and Git • HTML, XHTML, WML, and CSS • JavaScript and AJAX, including Prototype and script.aculo.us libraries • Web Services, SOAP, RESTful Ser",
+        "Section: General\nD a v i d Co l e web developer 843-388-2405 ∙ davidcole@davidcole.net ∙ www.davidcole.net Code samples and references available upon request. 1 of 2 David Cole ∙ 843-388-2405 ∙ davidcole@davidcole.net P r o f i l e Results-oriented Web Application Developer and Online Business Developer with considerable training and enterprise exp",
+        "Section: General\na capstone project, built a self-service website for the historical society in Townshend, VT using Java, Postgresql, Jakarta Tomcat, and Red Hat Linux. College of Charleston June 1994 Bachelor of Arts, Music Theory and Composition W o r k H i s t o r y Web Application Developer www.rpwb.com Richardson, Patrick, Westbrook, & Brickma"
+      ],
+      "explanation": "Matching evidence: sql, java, git.Skills not found in retrieved resume text: None of the listed job skills are missing.Check the original resume before making a decision."
+    },
+    {
+      "resume_id": "752843ba0bed8df3",
+      "candidate_name": "Viraj_Soni_Resume.pdf",
+      "resume_path": "C:\\Users\\UDITA BAGGA\\python-practice\\rag_based_profile_matching\\resumes\\Viraj_Soni_Resume.pdf.pdf",
+      "match_score": 59.03,
+      "semantic_similarity": 0.4969,
+      "matched_skills": [
+        "java",
+        "git"
+      ],
+      "missing_skills": [
+        "sql"
+      ],
+      "must_have_skills": [],
+      "missing_must_have_skills": [],
+      "eligibility": "Eligible",
+      "sections_retrieved": [
+        "General"
+      ],
+      "relevant_excerpts": [
+        "Section: General\nbeanstalk, VPC),twist lock IT Souls– Vadodara, India JAVA Developer 06/2012 to 05/2014 • Collaborated with other developers on designing, developing, testing, and implementing new JSP pages, HTML pages, and Servlets. • Maintained company website(www.itsouls.com) and using own knowledge and experience resolved any problematic issues",
+        "Section: General\nJenkins build job. • performed technology upgrades of Spring 2.0.2 to 3.0.1 and Hibernate 2.1.6 to 3.2.5. • Designed and developed a standalone Java application using the Java template engine Free Marker to automatically generate HTML pages. • Developed different SOAP Web Services using WSDL. • Interacted with external services to ",
+        "Section: General\nwith various cloud challenges. --------------------------------------------------------- Technical Skills ---------------------------------------------------------------- • Platforms: Linux (AWS, Red Hat, Ubuntu), Windows, Centos • Languages: C, JAVA, Shell scripting, Bash Python, JavaScript • AWS Cloud: AWS (EC2, Elastic Beanstalk"
+      ],
+      "explanation": "Matching evidence: java, git.Skills not found in retrieved resume text: sql.Check the original resume before making a decision."
+    },
+    {
+      "resume_id": "8e750875c5cce04e",
+      "candidate_name": "Deep_Mehta_Resume.pdf",
+      "resume_path": "C:\\Users\\UDITA BAGGA\\python-practice\\rag_based_profile_matching\\resumes\\Deep_Mehta_Resume.pdf.pdf",
+      "match_score": 56.31,
+      "semantic_similarity": 0.4365,
+      "matched_skills": [
+        "sql",
+        "java"
+      ],
+      "missing_skills": [
+        "git"
+      ],
+      "must_have_skills": [],
+      "missing_must_have_skills": [],
+      "eligibility": "Eligible",
+      "sections_retrieved": [
+        "Education",
+        "Experience",
+        "General",
+        "Projects",
+        "Skills"
+      ],
+      "relevant_excerpts": [
+        "Section: Skills\nLanguages: C#, Java, Python, Ruby, Javascript, SQL Web & Mobile: Angular, React, Android (XML, Java), React-Native, Ruby on Rails, Django Cloud: Azure, AWS, Firebase Azure: App-Service, Functions, AD, KeyVault, APIM, SQL, CosmosDB, Queue, Redis, IoT- Hub, App-Gateway, Load-Balancer, VNet, VPN, Storage, Cognitive-Services, FHIR DevOp",
+        "Section: General\nDeep M. Mehta | Full Stack Software Developer deepmehta.co.in mail@deepmehta.co.in | github.com/deep-mm | linkedin.com/in/deepmehta97 Redmond, WA",
+        "Section: Experience\nSoftware Engineer, Microsoft, Redmond, WA June 2024 - Present • Experiences + Devices organization Software Development Engineer Intern, Amazon, Seattle, WA May 2023 - Aug 2023 • Full stack software development – Mobile App (React Native), Backend APIs (Java), Cloud (AWS) • Integrated AWS Textract-powered OCR feature into mobile"
+      ],
+      "explanation": "Matching evidence: sql, java.Skills not found in retrieved resume text: git.Check the original resume before making a decision."
+    },
+    {
+      "resume_id": "d518915ee7e96698",
+      "candidate_name": "ALEX MEHTA",
+      "resume_path": "C:\\Users\\UDITA BAGGA\\python-practice\\rag_based_profile_matching\\resumes\\Alex_Mehta_Python_Developer_Resume.txt",
+      "match_score": 55.61,
+      "semantic_similarity": 0.4209,
+      "matched_skills": [
+        "sql",
+        "git"
+      ],
+      "missing_skills": [
+        "java"
+      ],
+      "must_have_skills": [],
+      "missing_must_have_skills": [],
+      "eligibility": "Eligible",
+      "sections_retrieved": [
+        "Certifications",
+        "Education",
+        "Experience",
+        "General",
+        "Projects",
+        "Skills",
+        "Summary"
+      ],
+      "relevant_excerpts": [
+        "Section: Summary\nPython developer with 2+ years of experience building backend services, APIs, and data-driven applications. Experienced with Python, FastAPI, PostgreSQL, Pandas, Docker, and AWS. Strong interest in backend engineering, automation, and reliable API design.",
+        "Section: Skills\nLanguages: Python, SQL Frameworks: FastAPI, Flask Libraries: Pandas, NumPy, Requests, Pydantic Databases: PostgreSQL, SQLite Cloud & Tools: AWS, Docker, Git, Linux, Postman Testing: PyTest Concepts: REST APIs, OOP, Data Structures, ETL, API Integration",
+        "Section: Experience\nPython Developer | CloudPeak Systems | Pune | 2024â€“Present - Developed FastAPI services for internal data and workflow applications. - Designed REST endpoints with request validation, authentication, pagination, and exception handling. - Built Python scripts to automate recurring data-processing and reporting tasks. - Worked w"
+      ],
+      "explanation": "Matching evidence: sql, git.Skills not found in retrieved resume text: java.Check the original resume before making a decision."
+    },
+    {
+      "resume_id": "6407d7fb1bf50eb8",
+      "candidate_name": "EMILY SHARMA",
+      "resume_path": "C:\\Users\\UDITA BAGGA\\python-practice\\rag_based_profile_matching\\resumes\\Emily_Sharma_Python_Developer_Resume.docx",
+      "match_score": 55.15,
+      "semantic_similarity": 0.4108,
+      "matched_skills": [
+        "sql",
+        "git"
+      ],
+      "missing_skills": [
+        "java"
+      ],
+      "must_have_skills": [],
+      "missing_must_have_skills": [],
+      "eligibility": "Eligible",
+      "sections_retrieved": [
+        "Education",
+        "Experience",
+        "General",
+        "Projects",
+        "Skills",
+        "Summary"
+      ],
+      "relevant_excerpts": [
+        "Section: Experience\nPython Developer | DataBridge Technologies | Bengaluru | 2024–Present • Developed REST APIs using Django REST Framework for internal business applications. • Implemented authentication, validation, pagination, filtering, and error handling. • Optimized PostgreSQL queries and introduced Redis caching for frequently accessed data.",
+        "Section: Skills\nLanguages: Python, SQL Frameworks: Django, Django REST Framework, Flask Databases: PostgreSQL, MySQL, Redis Tools: Git, Docker, Linux, Postman, PyCharm Testing: PyTest, unittest | Concepts: REST APIs, OOP, Data Structures, API Design",
+        "Section: Summary\nPython developer with 2+ years of experience developing web applications and REST APIs. Experienced in Python, Django, Django REST Framework, PostgreSQL, Redis, and Docker. Comfortable working across development, debugging, testing, and API integration."
+      ],
+      "explanation": "Matching evidence: sql, git.Skills not found in retrieved resume text: java.Check the original resume before making a decision."
+    },
+    {
+      "resume_id": "2a1d750b22a4ecbd",
+      "candidate_name": "Alok Pandey",
+      "resume_path": "C:\\Users\\UDITA BAGGA\\python-practice\\rag_based_profile_matching\\resumes\\resume_alok_pandey.pdf",
+      "match_score": 44.81,
+      "semantic_similarity": 0.5883,
+      "matched_skills": [
+        "java"
+      ],
+      "missing_skills": [
+        "sql",
+        "git"
+      ],
+      "must_have_skills": [],
+      "missing_must_have_skills": [],
+      "eligibility": "Eligible",
+      "sections_retrieved": [
+        "Education",
+        "Experience",
+        "General",
+        "Skills",
+        "Summary"
+      ],
+      "relevant_excerpts": [
+        "Section: Skills\nJava, Spring, Hibernate, Oracle",
+        "Section: Summary\nJava Developer with 10 years of experience in Java and Spring. Maintains core banking services in Java and Spring.",
+        "Section: Experience\nFinware - Java Developer (2016-present) Maintains core banking services in Java and Spring. Daily work uses Java, Spring, Hibernate, Oracle."
+      ],
+      "explanation": "Matching evidence: java.Skills not found in retrieved resume text: sql, git.Check the original resume before making a decision."
+    },
+    {
+      "resume_id": "968fb1b7c4d2d530",
+      "candidate_name": "Neha Kapoor",
+      "resume_path": "C:\\Users\\UDITA BAGGA\\python-practice\\rag_based_profile_matching\\resumes\\resume_neha_kapoor.txt",
+      "match_score": 43.77,
+      "semantic_similarity": 0.5653,
+      "matched_skills": [
+        "java"
+      ],
+      "missing_skills": [
+        "sql",
+        "git"
+      ],
+      "must_have_skills": [],
+      "missing_must_have_skills": [],
+      "eligibility": "Eligible",
+      "sections_retrieved": [
+        "Education",
+        "Experience",
+        "General",
+        "Skills",
+        "Summary"
+      ],
+      "relevant_excerpts": [
+        "Section: Skills\nJava, Spring Boot, Kafka, MySQL",
+        "Section: Summary\nJava Developer with 6 years of experience in Java and Spring Boot. Designed order-processing services in Java and Spring Boot.",
+        "Section: Experience\nNorthwind - Java Developer (2020-present) Designed order-processing services in Java and Spring Boot. Daily work uses Java, Spring Boot, Kafka, MySQL."
+      ],
+      "explanation": "Matching evidence: java.Skills not found in retrieved resume text: sql, git.Check the original resume before making a decision."
+    },
+    {
+      "resume_id": "720722b23e12b9ca",
+      "candidate_name": "KARAN PRATAP SINGH",
+      "resume_path": "C:\\Users\\UDITA BAGGA\\python-practice\\rag_based_profile_matching\\resumes\\karan_resume.pdf",
+      "match_score": 36.98,
+      "semantic_similarity": 0.4143,
+      "matched_skills": [
+        "java"
+      ],
+      "missing_skills": [
+        "sql",
+        "git"
+      ],
+      "must_have_skills": [],
+      "missing_must_have_skills": [],
+      "eligibility": "Eligible",
+      "sections_retrieved": [
+        "Experience",
+        "General",
+        "Projects",
+        "Skills"
+      ],
+      "relevant_excerpts": [
+        "Section: Skills\nProgramming Golang, Python, TypeScript, JavaScript, Java, PostgreSQL, Redis, GraphQL F rameworks Express.js, Django, Flask, FastAPI, Spring Boot, React.js, Next.js DevOps Docker, Kubernetes, Terraform, Pulumi, Jenkins Cloud Providers Amazon Web Services (A WS), Google Cloud Platform (GCP)",
+        "Section: Experience\nSoftware Engineer 02/05/2024 - Present Apple Inc. Cupertino, CA Senior Software Engineer 05/03/2023 - 01/26/2024 The Guardian Life Insurance Company of America Holmdel, NJ • Developed features for Guardian Anytime web app leveraging React.js and Node.js serving over 4M users. • Migrated legacy Java SOAP APIs to RESTful APIs usin",
+        "Section: Experience\n05/26/2020 - 01/31/2021 Quotient Inc. Maryland, USA (Remote) • Created a digital asset management platform using React, TypeScript, Node.js, and GraphQL. • Implemented terabyte-scale data ingestion and streamingwith Node.js for over 150 million artifacts. • Designed end-to-end GraphQL data layer and client-side enterprise search"
+      ],
+      "explanation": "Matching evidence: java.Skills not found in retrieved resume text: sql, git.Check the original resume before making a decision."
+    }
+  ],
+  "excluded_by_requirements": [],
+  "generated_at": "2026-10-18T22:45:52"
+}
